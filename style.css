@@ -1,0 +1,117 @@
+body {
+    width: 1728px;
+    height: 2358px;
+    position: relative;
+    background: white;
+    font-family: Inter;
+}
+
+#group1 {
+    width: 1643px;
+    height: 661px;
+    left: 38px;
+    top: 47px;
+    position: absolute
+}
+
+#beagle_blog {
+    width: 1540.51px;
+    height: 613.54px;
+    left: 51px;
+    top: 47px;
+    position: absolute
+}
+
+#blogh1 {
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word
+}
+
+.beagle {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-style: italic;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.text {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+a {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word
+}
+
+#rect1 {
+    width: 1643px;
+    height: 648.57px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border: 2px black solid
+}
+
+#moreImg {
+    left: 58px;
+    top: 1670px;
+    position: absolute;
+}
+
+#imgs {
+    height: 894px;
+    left: 58px;
+    top: 742px;
+    position: absolute
+}
+
+#imgh1 {
+    width: 962px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word
+}
+
+#img {
+    width: 1051px;
+    height: 762px;
+    left: 0px;
+    top: 132px;
+    position: absolute
+}
+
+#Trivia {
+    width: 1623px;
+    left: 58px;
+    top: 1795px;
+    position: absolute
+}
+
+#th1 {
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word
+}
